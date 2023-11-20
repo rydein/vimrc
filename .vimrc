@@ -155,6 +155,14 @@ noremap <silent> ;m  :<C-u>Denite file_mru -mode=normal<CR>
 " Vaffle
 noremap <silent> ;v  :<C-u>Vaffle<CR>
 
+" Flutter
+let g:dart_html_in_string = v:true
+let g:dart_style_guide = 2
+let g:dart_format_on_save = v:true
+
+" LSP
+let g:airline#extensions#ale#enabled = 1
+
 " easymotion
 " デフォルトのキーマッピングを無効にする
 let g:EasyMotion_do_mapping = 0

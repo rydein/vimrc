@@ -41,3 +41,32 @@ repo = 'lambdalisue/gina.vim'
 
 [[plugins]]
 repo = 'cocopon/vaffle.vim'
+
+[[plugins]]
+repo = 'dradtke/vim-dap'
+
+[[plugins]]
+repo = 'prabirshrestha/vim-lsp'
+
+[[plugins]]
+repo = 'mattn/vim-lsp-settings'
+
+[[plugins]]
+repo = 'mattn/vim-lsp-icons'
+
+[[plugins]]
+repo = 'dense-analysis/ale'
+
+[[plugins]]
+repo = 'vim-airline/vim-airline'
+
+[[plugins]]
+repo = 'thosakwe/vim-flutter'
+
+[[plugins]]
+repo = 'dart-lang/dart-vim-plugin'
+
+[[plugins]]
+repo = 'hrsh7th/vim-vsnip'
+[[plugins]]
+repo = 'hrsh7th/vim-vsnip-integ'
